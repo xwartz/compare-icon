@@ -1,0 +1,21 @@
+
+{
+  "name": "repository-name",
+  "version": "1.0.0",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "es5-shim": "~3.1.0",
+    "bootstrap-sass-official": "3.x",
+    "jquery": "2.0.x",
+    "holderjs": "~2.4.0"
+  },
+  "license": "MIT"
+}
