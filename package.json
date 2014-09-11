@@ -1,24 +1,14 @@
 {
-  "name": "repository-name",
+  "name": "compare-icon",
   "description": "description",
   "version": "1.0.0",
-  "homepage": "https://github.com/hizhi",
-  "repository": "https://github.com/hizhi?tab=repositories",
+  "homepage": "https://github.com/xwartz",
+  "repository": "https://github.com/xwartz?tab=repositories",
   "author": "stddup <stddup@gmail.com> (http://stddup.me/)",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "~3.8.7",
-    "gulp-concat-css": "~0.1.4",
-    "gulp-compass": "~1.3.1",
-    "gulp-minify-css": "~0.3.7",
-    "gulp-rename": "~1.2.0",
-    "gulp-plumber": "~0.6.4",
-    "gulp-notify": "~1.5.0",
-    "gulp-autoprefixer": "0.0.8",
-    "gulp-uglify": "~0.3.1",
-    "gulp-concat": "~2.3.4",
-    "gulp.spritesmith": "~1.1.1",
-    "gulp-imagemin": "~1.0.0"
+    "shelljs": "~0.2.6",
+    "images": "~2.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

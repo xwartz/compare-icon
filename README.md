@@ -1,4 +1,4 @@
-Repository-template
+compare icons
 ===================
 
-Repository-template
+1x icons compare 2x icons
